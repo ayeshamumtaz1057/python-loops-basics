@@ -1,6 +1,6 @@
 # Python Loops Basics 🐍
 
-A professional Python practice repository focused on loops and problem solving.
+A  Python basics  repository focused on loops and problem solving.
 
 ## Topics Covered
 
