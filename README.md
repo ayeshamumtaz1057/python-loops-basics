@@ -28,4 +28,4 @@ A professional Python practice repository focused on loops and problem solving.
 ## Author 
 
 Ayesha Mumtaz  
-BS Information Technology - 8th Semester
+BS Information Technology - 5th Semester
