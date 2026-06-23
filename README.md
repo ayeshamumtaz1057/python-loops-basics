@@ -25,7 +25,7 @@ A professional Python practice repository focused on loops and problem solving.
 - Logic Building
 - Python Fundamentals
 
-## Author -AYESHA MUMTAZ -5TH SEMESTER
+## Author 
 
 Ayesha Mumtaz  
 BS Information Technology - 8th Semester
