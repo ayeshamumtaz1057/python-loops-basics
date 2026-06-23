@@ -1,2 +1,31 @@
-# python-loops-basics
-Beginner Python programs covering for loop, while loop and loop practice problems.
+# Python Loops Basics 🐍
+
+A professional Python practice repository focused on loops and problem solving.
+
+## Topics Covered
+
+- For Loop
+- While Loop
+- Nested Loops
+- Range Function
+- Pattern Printing
+- Logical Problems
+
+## Projects Included
+
+✅ Multiplication Table  
+✅ Factorial Calculator  
+✅ Prime Number Checker  
+✅ Fibonacci Series  
+✅ Pattern Programs  
+
+## Skills Practiced
+
+- Problem Solving
+- Logic Building
+- Python Fundamentals
+
+## Author -AYESHA MUMTAZ -5TH SEMESTER
+
+Ayesha Mumtaz  
+BS Information Technology - 8th Semester
