@@ -1,31 +1,32 @@
-# Python Loops Basics 🐍
+# 🔄 Python Loops
 
-A  Python basics  repository focused on loops and problem solving.
+## 📌 About
+Beginner Python programs covering for loops,
+while loops, break, continue and loop practice.
+Part of my Python journey toward Data Analysis.
 
-## Topics Covered
+## 📂 Files
+| File | Description |
+|---|---|
+| for_loop.py | For loop examples |
+| while_loop.py | While loop + break/continue |
+| loop_practice.py | Practice problems |
 
-- For Loop
-- While Loop
-- Nested Loops
-- Range Function
-- Pattern Printing
-- Logical Problems
+## 💡 What I Learned
+- for loop with list and range
+- while loop with conditions
+- break and continue
+- Real practice problems
 
-## Projects Included
+## 🛠️ Tools Used
+- Python 3
+- VS Code
 
-✅ Multiplication Table  
-✅ Factorial Calculator  
-✅ Prime Number Checker  
-✅ Fibonacci Series  
-✅ Pattern Programs  
+## 👩‍💻 Author
+**Ayesha Mumtaz** — BS IT Student
+📍 Bahawalpur,Punjab, Pakistan
+🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-mumtaz-82b8913a9)
 
-## Skills Practiced
+## 📈 Status
+✅ Completed
 
-- Problem Solving
-- Logic Building
-- Python Fundamentals
-
-## Author 
-
-Ayesha Mumtaz  
-BS Information Technology - 5th Semester
